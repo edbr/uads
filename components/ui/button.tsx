@@ -19,7 +19,8 @@ variant: {
     "border border-[var(--ua-border-subtle,#191919)] bg-background text-foreground hover:bg-muted",
 },
       size: {
-        default: "h-11 px-6 text-base",
+          default: "h-10 px-4 py-2",
+  icon: "h-10 w-10 p-0",
       },
     },
     defaultVariants: {
